@@ -1,0 +1,12 @@
+.upload{
+display: flex;
+flex-direction: column;
+position: static;
+bottom: 0%;
+}
+.upload progress{
+  width: 100%;
+}
+.upload input{
+  padding: 10px;
+}
